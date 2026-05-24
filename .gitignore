@@ -1,0 +1,7 @@
+﻿
+dump.rdb
+__pycache__/
+venv/
+.env
+.idea/
+.vscode/
